@@ -1,48 +1,30 @@
-<!DOCTYPE HTML>
-<!--
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Stefano Kals</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-		<div id="wrapper">
-			<div id="bg"></div>
-			<div id="overlay"></div>
-			<div id="main">
+---
+layout: splash
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_image: /assets/images/image.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-				<!-- Header -->
-					<header id="header">
-						<h1>Stefano Kals</h1>
-						<p>Runner &nbsp;&bull;&nbsp; Traveler &nbsp;&bull;&nbsp; Software Engineer</p>
-						<nav>
-							<ul>
-								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="https://github.com/stefanokals" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-							</ul>
-						</nav>
-					</header>
+gallery:
+- url: /assets/images/splash/unsplash-gallery-image-1.jpg
+  image_path: /assets/images/splash/unsplash-gallery-image-1.jpg
+  alt: "placeholder image 1"
+  title: "Image 1 title caption"
+- url: /assets/images/splash/unsplash-gallery-image-2.jpg
+  image_path: /assets/images/splash/unsplash-gallery-image-2.jpg
+  alt: "placeholder image 2"
+  title: "Image 2 title caption"
+- url: /assets/images/splash/unsplash-gallery-image-3.jpg
+  image_path: /assets/images/splash/unsplash-gallery-image-3.jpg
+  alt: "placeholder image 3"
+  title: "Image 3 title caption"
+- url: /assets/images/splash/unsplash-gallery-image-4.jpg
+  image_path: /assets/images/splash/unsplash-gallery-image-4.jpg
+  alt: "placeholder image 4"
+  title: "Image 4 title caption"
+---
 
-				<!-- Footer -->
-					<footer id="footer">
-						<span class="copyright">&copy; Stefano Kals. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
-					</footer>
+<p>This text should appear above the recent posts.</p>
 
-			</div>
-		</div>
-		<script>
-			window.onload = function() { document.body.classList.remove('is-preload'); }
-			window.ontouchmove = function() { return false; }
-			window.onorientationchange = function() { document.body.scrollTop = 0; }
-		</script>
-	</body>
-</html>
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
