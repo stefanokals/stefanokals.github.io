@@ -2,9 +2,9 @@
 title: "Posts by Year"
 permalink: /year-archive/
 layout: posts
-excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+excerpt: "Blog entries sorted by **years**."
 header:
-  overlay_image: /assets/images/image.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/title.jpg
+  overlay_filter: 0.2
+  caption: "Photo credit: [**Stefano Kals**](https://www.stefanokals.ch)"
 ---

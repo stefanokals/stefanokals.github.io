@@ -1,9 +1,8 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
-excerpt: "Blog entries sorted by **categories**."
+title: Sarah
+layout: splash
+permalink: /sarah/
+excerpt: "Hi its me **Sarah**."
 header:
   overlay_image: /assets/images/title.jpg
   overlay_filter: 0.2

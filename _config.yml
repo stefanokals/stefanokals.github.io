@@ -27,9 +27,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefano Kals"
-  avatar           : "/assets/images/me.jpg"
-  bio              : "Yeah thats **me**."
+  name             : "Stefano and Sarah"
+  avatar           : "/assets/images/author/author.jpg"
+  bio              : "Hi its me **Sarah** and **Stefano**."
   location         : "Switzerland"
   email            :
   links:
@@ -207,7 +207,7 @@ defaults:
     values:
       layout: single
       author_profile: # true
-      read_time: true
+      read_time: # true
       comments: # true
       share: true
       related: true
