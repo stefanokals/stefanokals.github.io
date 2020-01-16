@@ -68,7 +68,7 @@ gallery5:
     image_path: /assets/images/chrismas_in_oslo/street_food_1.jpg
     alt: "street_food_1"
     title: "Street Food"
-  - url: /assets/images/chrismas_in_oslo/street_foode_2.jpg
+  - url: /assets/images/chrismas_in_oslo/street_food_2.jpg
     image_path: /assets/images/chrismas_in_oslo/street_food_2.jpg
     alt: "street_food_2"
     title: "Street Food"
