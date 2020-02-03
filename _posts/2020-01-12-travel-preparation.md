@@ -23,3 +23,32 @@ Der Kindle Oasis darf natürlich auch nicht fehlen, da uns unser Rücken wohl do
 Die Drohne, eine DJI Mavic Pro, um wundervolle  Luftaufnahmen zu machen, ebenfalls Second-Hand, darf natürlich auch nicht fehlen.
 
 {% include figure image_path="/assets/images/travel_preparation/dji_mavic.jpg" alt="DJI Mavic Pro" caption="DJI Mavic Pro" %}
+
+# Software
+
+* VSCode
+* Docker
+* Git
+* GIMP
+
+# Kleider
+
+* Backpacker
+* Sport
+* Wandern
+
+# Sonstige Ausrüstung
+
+* Portabler Wasserfilter (Bsp. Katadyne oder MSR)
+* Malariamedikament (Bsp. Malarone)
+
+# Wichtig
+
+* Internationaler Führerausweis
+* Internationaler Impfausweis (besonders für Kuba!)
+* Gültiger Pass
+* VISA's
+* Notfallnummern
+* Dokumentkopien (sicherer Ort, überall und mit jedem PC erreichbar!)
+* Rechnungen (am besten LSV)
+* Militär-, Zivildienst, -schutz Verschiebung/Einsatz abgeklärt
