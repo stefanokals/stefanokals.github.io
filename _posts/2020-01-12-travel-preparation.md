@@ -1,5 +1,5 @@
 ---
-excerpt: "What we think we need for our trip."
+excerpt: "Was wir für unseren Trip brauchen oder es glauben zu brauchen. Diverses."
 header:
   overlay_image: /assets/images/title.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
