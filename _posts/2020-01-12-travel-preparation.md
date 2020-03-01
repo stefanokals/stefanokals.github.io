@@ -39,8 +39,8 @@ Die Drohne, eine DJI Mavic Pro, um wundervolle  Luftaufnahmen zu machen, ebenfal
 
 # Sonstige Ausrüstung
 
-* Portabler Wasserfilter (Bsp. Katadyne oder MSR)
-* Malariamedikament (Bsp. Malarone)
+* Portabler Wasserfilter (Bsp. *Katadyn* oder *MSR Guardian*)
+* Malariamedikament (Bsp. *Malarone*)
 
 # Wichtig
 
