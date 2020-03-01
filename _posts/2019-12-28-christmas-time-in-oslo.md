@@ -122,7 +122,7 @@ gallery8:
 
 # Arrival
 
-{% include gallery d="gallery" caption="The **arrival** in Oslo." %}
+{% include gallery id="gallery" caption="The **arrival** in Oslo." %}
 
 # The Food
 
