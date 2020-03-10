@@ -17,7 +17,7 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Peru
 
-![Peru](/assets/images/drohnenbestimmungen/peru-flag-wave-medium.png)
+![Peru](/assets/images/fahnen/peru-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Nein
@@ -26,7 +26,7 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Bolivien
 
-![Bolivia](/assets/images/drohnenbestimmungen/bolivia-flag-wave-medium.png)
+![Bolivia](/assets/images/fahnen/bolivia-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Nein
@@ -35,7 +35,7 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Ecuador
 
-![Ecuador](/assets/images/drohnenbestimmungen/ecuador-flag-wave-medium.png)
+![Ecuador](/assets/images/fahnen/ecuador-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Nein
@@ -44,7 +44,7 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Kolumbien
 
-![Colombia](/assets/images/drohnenbestimmungen/colombia-flag-wave-medium.png)
+![Colombia](/assets/images/fahnen/colombia-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Ja <http://www.aerocivil.gov.co/servicios-a-la-navegacion/sistema-de-aeronaves-pilotadas-a-distancia-rpas-drones>
@@ -53,7 +53,7 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Jamaika
 
-![Jamaica](/assets/images/drohnenbestimmungen/jamaica-flag-wave-medium.png)
+![Jamaica](/assets/images/fahnen/jamaica-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Nein
@@ -62,13 +62,13 @@ Ausserdem fehlen auf der my-road Seite noch die nötigen Links zu den Luftfahrtb
 
 # Kuba (!)
 
-![Cuba](/assets/images/drohnenbestimmungen/cuba-flag-wave-medium.png)
+![Cuba](/assets/images/fahnen/cuba-flag-wave-medium.png)
 
 Einreise mit Drohne verboten!!!!!
 
 # Mexiko (!)
 
-![Mexico](/assets/images/drohnenbestimmungen/mexico-flag-wave-medium.png)
+![Mexico](/assets/images/fahnen/mexico-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Ja (nur Mexikaner, Ausländer dürfen nicht fliegen)
@@ -77,7 +77,7 @@ Einreise mit Drohne verboten!!!!!
 
 # Vereinigte Staaten
 
-![United States of America](/assets/images/drohnenbestimmungen/united-states-of-america-flag-wave-medium.png)
+![United States of America](/assets/images/fahnen/united-states-of-america-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Ja <https://faadronezone.faa.gov/#/>
@@ -86,7 +86,7 @@ Einreise mit Drohne verboten!!!!!
 
 # Japan
 
-![Japan](/assets/images/drohnenbestimmungen/japan-flag-wave-medium.png)
+![Japan](/assets/images/fahnen/japan-flag-wave-medium.png)
 
 * Freizeitgebrauch: Ja
 * Registrierung: Nein
