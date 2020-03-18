@@ -35,3 +35,7 @@ Another alternative is just staying calm and try to continue our trip after the 
 However beside all the praising of the government reacting that fast here in Peru, I don't get the point letting foreigners not returning to their home country, aren't they not the spreaders of the virus beside peruvians returning from visitting countries which already have a lot of infections?
 
 I even don't get the point that all people even the ones who are not belonging to the risk group need to go through all this measures. It would be much more efficient, to let all the elderly and people with pre-existing illness stay in isolation or quarantine them, or am I missing something here? Probably I am anyway not qualified for questioning this, but it's in my head, and it had to get out.
+
+**Update:** The isolation of just the elderly and sick people would be impracticable in latin america due to the fact that mostly all generations of a family live in the same household, a friend of sarah and latin america expert corrected.
+
+**Sidenote:** Event if the lockdown prevents an epidemic outbreak right now in peru, it will happen the sooner or later, just a little bit slower.
