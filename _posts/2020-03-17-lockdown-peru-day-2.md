@@ -1,5 +1,5 @@
 ---
-excerpt: "Lockdown Peru"
+excerpt: "Lockdown Peru Day 2"
 header:
   overlay_image: /assets/images/title.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
