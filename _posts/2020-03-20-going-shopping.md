@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Stefano Kals**](https://www.stefanokals.ch)"
 categories: [blog, travel]
-tags: [peru, cusco, dogs, perro]
+tags: [peru, cusco, shopping]
 
 gallery:
   - url: /assets/images/shopping/shopping_1.jpg
