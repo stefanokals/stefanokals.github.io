@@ -17,6 +17,8 @@ It seems that some countries try to get there people back home, I heard about Be
 
 I hope the internet does not get a flue as well, that's now the only place to socialize for the moment, thank you internet for once.
 
+**Update:** A very good read from my father, who is more the optimist than I am :P <https://www.horx.com/48-die-welt-nach-corona/>
+
 # Links
 * <https://andina.pe/ingles/noticia-measures-announced-by-peru-president-in-sundays-address-to-the-nation-788496.aspx>
 * <https://www.srf.ch/news/schweiz/aktuelle-infos-zum-virus-der-bundesrat-beschliesst-ausserordentliche-lage-2>
