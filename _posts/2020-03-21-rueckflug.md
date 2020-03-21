@@ -39,6 +39,8 @@ Hier ein Überblick über all die Links und Seiten die wir zusammengetragen habe
 * <https://lima.msz.gov.pl/es/>
 * <https://lima.diplo.de/pe-de/-/2318390>
 * <https://www.bmeia.gv.at/reise-aufenthalt/reiseinformation/land/peru/>
+* <https://www.boalingua.ch/de/>
+* <https://www.amautaspanish.com/>
 * Plus weitere die schon nicht mehr auf unserem Radar sind
 
 Dann heist es auch meist immer, Sie müssen in Besitz eines gültigen Rückflugtickets sein und wenn man zur Zeit eins kaufen will kostet das 1500.- - 3000.- und man weiss nicht einmal ob dieser Flug geht, man es umtauschen oder umbuchen kann oder das Geld dann einfach verliert. Daher kommt ein Ticket kaufen gar nicht erst in Frage, ohne garantierte Sicherheit, dass der Flug gelingen sollte. Wir übernehmen gerne die Kosten der Repatriierung und stehen auch dazu das unser Unterfangen, jetzt im Nachhinein gesehen doch etwas waghalsig war, auch wenn wir für die Situation in der wir stecken rein gar nichts dafür können.
