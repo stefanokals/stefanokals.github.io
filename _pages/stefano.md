@@ -10,3 +10,5 @@ header:
 ---
 
 Hi I am Stefano Kals and a self-proclaimed Gonzo Journalist at the peak of his life.
+
+![Gonzo](/assets/images/us/gonzo.png)
