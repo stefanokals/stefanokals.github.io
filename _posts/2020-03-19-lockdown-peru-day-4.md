@@ -18,3 +18,5 @@ It is now allowed for governments to charter commercial flights with the new reg
 However compared to the situation in Europe or even Switzerland, the situation here in Peru is still under control. Only the drastic measures and the uncertainty about the future, the altitude or the food which is pure poisson for my stomach, makes it difficult to keep calm. A little sidenote, the food is wonderful and diverse, but the bacteria seem not to be friends with my stomach yet.
 
 We both agree right now, to break up the trip, return safely, wait out the storm, and continue the trip later on if possible.
+
+**Update:** If this would not be possible anymore, we need to rethink our accommodation, because it seems not anymore tolerable to stay at peoples home, where they have already an age of 70+.
