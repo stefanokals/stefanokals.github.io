@@ -21,7 +21,7 @@ stefano:
   - image_path: /assets/images/us/stefano.jpg
     alt: "stefano"
     title: "Stefano"
-    excerpt: 'Hi its me Stefano.'
+    excerpt: 'Hi its me Stefano. Gonzo Journalist at its best, but sorry for the mistakes :).'
     url: "stefano"
     btn_label: "Read More"
     btn_class: "btn--primary"
