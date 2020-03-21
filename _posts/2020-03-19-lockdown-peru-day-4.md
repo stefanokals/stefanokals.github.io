@@ -19,4 +19,6 @@ However compared to the situation in Europe or even Switzerland, the situation h
 
 We both agree right now, to break up the trip, return safely, wait out the storm, and continue the trip later on if possible.
 
+We have much more stuff and things to do at home, than here, where we are not allowed to do anything at all except for shopping.
+
 **Update:** If this would not be possible anymore, we need to rethink our accommodation, because it seems not anymore tolerable to stay at peoples home, where they have already an age of 70+.
