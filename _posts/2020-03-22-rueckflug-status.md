@@ -33,5 +33,7 @@ Aber hey, wir haben bis jetzt noch ein Dach über dem Kopf, etwas Essen zur Hand
 
 Ein Leben ohne Freiheit, ist immerhin ein Leben, oder? Oder sollte man lieber dafür Sterben wollen? Fragt die Philosophen, ich habe mir noch keine Antwort darauf gereimt.
 
+**Update:** Weitere Fake News entlarvt, zumindest der Bezug zum Bild. Ein gestern morgen veröffentlichter Artikel in einer peruvianischen Newsseite, schreibt über die Lage der Schweizer und das die Schweiz Ihre leute zurückholt. Das Bild ist jedoch von vor einer Woche wo viele Touristen versucht haben am Flughafen noch einen Flug zu ergattern. Wir haben bis jetzt noch keine Anweisungen erhalten zum Flughafen Cusco zu gehen und sind definitiv auch nicht auf dem Bild. Siehe dazu ins Deutsche übersetzt: [Schweizer Touristen werden zurückgeholt](/assets/pdf/SuizaRepatriierung.pdf)
+
 # Links
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
