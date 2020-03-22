@@ -37,5 +37,11 @@ Ein Leben ohne Freiheit, ist immerhin ein Leben, oder? Oder sollte man lieber da
 
 **Update 2:** Die Deutsche Botschaft hat gerade eben mitgeteilt, dass Ihr Flug für den 23.3.2020 nicht wie geplant durchgeführt werden kann, sondern verschoben werden muss. Da ab heute Stand 22.3.2020 keine zivilen Luftfahrten mehr zugelassen sind sondern alles über den militärischen Bereich durchgeführt werden muss, wobei neue Bewilligungen benötigt werden. Ich hoffe die Schweizer Behörden wissen dass und es kommt nicht auch am 25.3.2020 bei der Rückführung der Schweizer zu diesem verfickten Patzer oder dieser Lappalie oder wie man das auch immer nennen kann.
 
+**Update 3:** Dieser junge Kanadier aus Cusco in der gleichen Situation wie wir, spricht aus was ich denke.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-9I6x4mYCIE
+" target="_blank"><img src="http://img.youtube.com/vi/-9I6x4mYCIE/0.jpg" 
+alt="Canadian in Peru worries repatriation efforts 'too little, too late'" width="240" height="180" border="10" /></a>
+
 # Links
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
