@@ -39,9 +39,10 @@ Ein Leben ohne Freiheit, ist immerhin ein Leben, oder? Oder sollte man lieber da
 
 **Update 3:** Dieser junge Kanadier aus Cusco in der gleichen Situation wie wir, spricht aus was ich denke.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-9I6x4mYCIE
-" target="_blank"><img src="http://img.youtube.com/vi/-9I6x4mYCIE/0.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=-9I6x4mYCIE
+" target="_blank"><img src="https://img.youtube.com/vi/-9I6x4mYCIE/0.jpg" 
 alt="Canadian in Peru worries repatriation efforts 'too little, too late'" width="240" height="180" border="10" /></a>
 
 # Links
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
+* <https://www.youtube.com/watch?v=-9I6x4mYCIE>
