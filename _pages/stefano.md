@@ -9,6 +9,6 @@ header:
   caption: "Photo credit: [**Stefano Kals**](https://www.stefanokals.ch)"
 ---
 
-Hi I am Stefano Kals and a self-proclaimed Gonzo Journalist at the peak of his life.
+Hi I am Stefano Kals and a self-proclaimed Gonzo Journalist at the peak of his life. But sorry for the mistakes already.
 
 ![Gonzo](/assets/images/us/gonzo.png)
