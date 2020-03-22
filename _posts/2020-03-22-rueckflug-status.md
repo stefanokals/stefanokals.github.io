@@ -41,7 +41,7 @@ Ein Leben ohne Freiheit, ist immerhin ein Leben, oder? Oder sollte man lieber da
 
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=-9I6x4mYCIE
 " target="_blank"><img src="https://img.youtube.com/vi/-9I6x4mYCIE/0.jpg" 
-alt="Canadian in Peru worries repatriation efforts 'too little, too late'" width="240" height="180" border="10" /></a>
+alt="Canadian in Peru worries repatriation efforts 'too little, too late'" width="360" height="240" border="10" /></a>
 
 # Links
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
