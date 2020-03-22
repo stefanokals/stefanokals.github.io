@@ -14,7 +14,7 @@ Hier der Artikel als PDF übersetzt ins Deutsche:
 
 [Coronavirus In Peru Defense will Grenze komplett schliessen](/assets/pdf/CoronavirusInPeruDefense.pdf)
 
-Das ist so eine riesige Scheisse die hier abgeht, das glaubt man kaum, die kann man nicht mal mehr richtig stappeln hier. 
+Das ist so eine riesige Scheisse die hier abgeht, das glaubt man kaum, die kann man nicht mal mehr richtig stapeln hier. 
 
 ```bash
      💩
@@ -25,10 +25,9 @@ Das ist so eine riesige Scheisse die hier abgeht, das glaubt man kaum, die kann 
 💩💩💩💩💩💩
 ```
 
-Ausserdem bin ich mitlerweile überzogen, dass die Massnahmen mitlerweile fast gar nichts mehr bringen, weder die Schliessung von Schulen noch ein **kompletter** Lockdown usw. alles Bullshit. Das müsste man sich mal vorstellen mehrere Monate durchzuziehen und nicht nur 2 Wochen oder 15 Tage. Also entweder fängt das Spiel dann wieder von vorne an oder es wird eine lange lange und sehr sehr ungemütliche Zeit hier werden!!!!!!!!!!!!!!!!
+Ausserdem bin ich mitlerweile überzogen, dass die Massnahmen mitlerweile fast gar nichts mehr bringen, weder die Schliessung von Schulen noch ein **kompletter** Lockdown usw. alles Bullshit. Das müsste man sich mal vorstellen mehrere Monate durchzuziehen und sicher nicht nur 2 Wochen oder 15 Tage. Also entweder fängt das Spiel dann wieder von vorne an oder es wird eine lange lange und sehr sehr ungemütliche Zeit hier werden!!!!!!!!!!!!!!!!
 
 Ausserdem fängt ab spätestens Juni der Winter und damit die hiesige **saisonalle Grippezeit** an. Ja richtig gehört, die scheint es hier ebenfalls zu geben. Well done, wenn die beiden dann gerade auch noch aufeinander stossen, dann bricht hier Himmel und Hölle gleichzeitig nieder.
 
 # Links
-
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
