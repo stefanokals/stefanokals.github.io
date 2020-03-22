@@ -17,12 +17,12 @@ Hier der Artikel als PDF übersetzt ins Deutsche:
 Das ist so eine riesige Scheisse die hier abgeht, das glaubt man kaum, die kann man nicht mal mehr richtig stapeln hier. 
 
 ```bash
-     💩
-    💩💩
-   💩💩💩
-  💩💩💩💩
- 💩💩💩💩💩
-💩💩💩💩💩💩
+     💩           💩           💩
+    💩💩         💩💩         💩💩
+   💩💩💩       💩💩💩       💩💩💩
+  💩💩💩💩     💩💩💩💩     💩💩💩💩
+ 💩💩💩💩💩   💩💩💩💩💩   💩💩💩💩💩
+💩💩💩💩💩💩 💩💩💩💩💩💩 💩💩💩💩💩💩
 ```
 
 Ausserdem bin ich mitlerweile überzogen, dass die Massnahmen mitlerweile fast gar nichts mehr bringen, weder die Schliessung von Schulen noch ein **kompletter** Lockdown usw. alles Bullshit. Das müsste man sich mal vorstellen mehrere Monate durchzuziehen und sicher nicht nur 2 Wochen oder 15 Tage. Also entweder fängt das Spiel dann wieder von vorne an oder es wird eine lange lange und sehr sehr ungemütliche Zeit hier werden!!!!!!!!!!!!!!!!
