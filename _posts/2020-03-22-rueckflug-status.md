@@ -27,7 +27,11 @@ Das ist so eine riesige Scheisse die hier abgeht, das glaubt man kaum, die kann 
 
 Ausserdem bin ich mitlerweile überzogen, dass die Massnahmen mitlerweile fast gar nichts mehr bringen, weder die Schliessung von Schulen noch ein **kompletter** Lockdown usw. alles Bullshit. Das müsste man sich mal vorstellen mehrere Monate durchzuziehen und sicher nicht nur 2 Wochen oder 15 Tage. Also entweder fängt das Spiel dann wieder von vorne an oder es wird eine lange lange und sehr sehr ungemütliche Zeit hier werden!!!!!!!!!!!!!!!!
 
-Ausserdem fängt ab spätestens Juni der Winter und damit die hiesige **saisonalle Grippezeit** an. Ja richtig gehört, die scheint es hier ebenfalls zu geben. Well done, wenn die beiden dann gerade auch noch aufeinander stossen, dann bricht hier Himmel und Hölle gleichzeitig nieder.
+Ausserdem fängt ab spätestens Juni der Winter und damit die hiesige **saisonalle Grippezeit** an. Ja richtig gehört, die scheint es hier in Peru ebenfalls zu geben. Well done, wenn die beiden dann gerade auch noch aufeinander stossen, dann bricht hier Himmel und Hölle gleichzeitig nieder.
+
+Aber hey, wir haben bis jetzt noch ein Dach über dem Kopf, etwas Essen zur Hand, Bier, Wasser, die Gesundheit \*Fingers Crossed\*, nur die Freiheit geht komplett den Bach runter. Und die Gesundheit wirds ohne Bewegung wohl auch nicht mehr so lange machen.
+
+Ein Leben ohne Freiheit, ist immerhin ein Leben, oder? Oder sollte man lieber dafür Sterben wollen? Fragt die Philosophen, ich habe mir noch keine Antwort darauf gereimt.
 
 # Links
 * <https://www.watson.ch/wissen/coronavirus/397549523-coronavirus-die-zahlen-zu-den-jungen-erkrankten-sind-irrefuehrend>
