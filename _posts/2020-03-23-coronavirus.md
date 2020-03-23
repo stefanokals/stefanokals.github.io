@@ -1,3 +1,13 @@
+---
+excerpt: "Coronavirus und Massnahmen"
+header:
+  overlay_image: /assets/images/title.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Stefano Kals**](https://www.stefanokals.ch)"
+categories: [blog, travel]
+tags: [corona, coronavirus, demography, switzerland, schweiz, bfs]
+---
+
 Die vorläufig gängige Meinung zum Verhalten gegen das Virus
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b0NFSxagQ64
@@ -25,7 +35,7 @@ Damit sollte man eine Immunisierung von **71.5%** der Bevölkerung im Laufe der 
 
 Lassen wir mal die Zahlen von China vorne weg, da diese eh nicht nachvollzogen oder kontrolliert werden können, dann würde sich die Verbreitung des Virus nur mit einem permanenten Lockdown umsetzen lassen. **Permanent**, dass muss man sich mal vorstellen...permanent ist hier **auf unbestimmte Zeit** gemeint.
 
-**Wichtig:** Das hier ist natürlich die Meinung eines Laien und sollte in keinem Fall direkt *für bare Münze genommen* werden. Es ist nur als Denkanstoss gedacht und weil mir langweilig ist :).
+**Wichtig:** Das hier ist natürlich die Meinung eines Laien und sollte in keinem Fall direkt *für bare Münze genommen* werden. Es ist nur als Denkanstoss gedacht und geschrieben worden weil mir langweilig wird :).
 
 # Links/Quellen
 * <https://www.youtube.com/watch?v=b0NFSxagQ64>
