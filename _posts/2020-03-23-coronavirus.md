@@ -31,7 +31,7 @@ Schauen wir uns kurz die demographische Verteilung an und rechnen damit den Ante
 
 Davon ziehen wir vorsichtshalber noch min. 10% mit Vorerkrankungen ab.
 
-Damit sollte man eine Immunisierung von **71.5%** der Bevölkerung im Laufe der Zeit erhalten. Dazu brauchs keine Impfung, keine Medikamente und in den meisten Fällen auch gar keine Behandlung. Danach kann das Leben wieder wie gewohnt weiter gehen. Kostenfaktor gegen null? Fehler, Irrtümer und Zahlendreher natürlich vorbehalten.
+Damit sollte man eine Immunisierung von **71.5%** der Bevölkerung im Laufe der Zeit erhalten. Dazu braucht es keine Impfung, keine Medikamente und in den meisten Fällen auch gar keine Behandlung. Danach kann das Leben wieder wie gewohnt weiter gehen. Kostenfaktor gegen null? Fehler, Irrtümer und Zahlendreher natürlich vorbehalten.
 
 Lassen wir mal die Zahlen von China vorne weg, da diese eh nicht nachvollzogen oder kontrolliert werden können, dann würde sich die Verbreitung des Virus nur mit einem permanenten Lockdown umsetzen lassen. **Permanent**, dass muss man sich mal vorstellen...permanent ist hier **auf unbestimmte Zeit** gemeint.
 
