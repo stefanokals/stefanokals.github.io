@@ -10,8 +10,8 @@ tags: [corona, coronavirus, demography, switzerland, schweiz, bfs]
 
 Die vorläufig gängige Meinung zum Verhalten gegen das Virus
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=b0NFSxagQ64
-" target="_blank"><img src="http://img.youtube.com/vi/b0NFSxagQ64/0.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=b0NFSxagQ64
+" target="_blank"><img src="https://img.youtube.com/vi/b0NFSxagQ64/0.jpg" 
 alt="Bitte bleiben Sie zuhause" width="360" height="240" border="10" /></a>
 
 Eine weitere, bessere? und nachhaltigere? Variante könnte sein, zuerst der Lockdown und dann
