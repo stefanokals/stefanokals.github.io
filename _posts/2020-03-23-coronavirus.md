@@ -37,7 +37,7 @@ Lassen wir mal die Zahlen von China vorne weg, da diese eh nicht nachvollzogen o
 
 **Wichtig:** Das hier ist natürlich die Meinung eines Laien und sollte in keinem Fall direkt *für bare Münze genommen* werden. Es ist nur als Denkanstoss gedacht und geschrieben worden weil mir langweilig wird :).
 
-**Update:** In der Online-Zeitschrift Watson habe ich einen Artikel gelesen, bei dem es genau um das Thema Isolierung der Alten und Schwachen geht. Natürlich ist das eine heikle Forderung, aber je länger je mehr der Zustand andauern mag, desto unausweichlicher wird diese Forderung. Schliesslich ist eine Isolation aller faktisch das gleiche wie eine **Kollektivstrafe** [5] mit Unbeteiligten oder Nicht-Betroffenen, die meines wissens verboten ist oder zumindest nichts bringen oder gar kontraproduktiv sind. Und die wenigen Beispiele von Jungen Menschen, die einen schweren Verlauf durchmachen, die findet man immer. Wieder ein Beispiel unserer **sonderbaren Medienwelt** in der wir leben. [4]
+**Update:** In der Online-Zeitschrift Watson habe ich einen Artikel gelesen, bei dem es genau um das Thema Isolierung der Alten und Schwachen geht. Natürlich ist das eine **heikle Forderung**, aber je länger je mehr der Zustand andauern mag, desto unausweichlicher wird diese Forderung. Schliesslich ist eine Isolation aller faktisch das gleiche wie eine **Kollektivstrafe** [5] mit Unbeteiligten oder Nicht-Betroffenen, die meines wissens verboten ist oder zumindest nichts bringen oder gar kontraproduktiv sein kann. Und die wenigen Beispiele von Jungen Menschen, die einen schweren Verlauf durchmachen, die findet man immer. Wieder ein Beispiel unserer **sonderbaren Medienwelt** in der wir leben. [4]
 
 # Links/Quellen
 * [1] <https://www.youtube.com/watch?v=b0NFSxagQ64>
