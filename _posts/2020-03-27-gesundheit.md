@@ -34,10 +34,10 @@ Nochmals andere sind zu 7. oder 8. in einem Raum ohne Fenster und Lüftung einge
 
 Dieses Land macht mich mittlerweile wüttender den je und je länger die Situation anhält, desto gewollter bin ich auf die Strasse zu gehen und alles kurz und klein zu schlagen. Das hat sich der Präsident dann selber eingebrockt, auch wenn mein Lohn dafür eine Zelle in Peru ist in der ich mich wahrscheinlich noch um ein vielfaches miserabler fühlen werde, vielleicht auch drauf gehen werde. Aber soweit ist es noch nicht, also lassen wir die Spekulationen.
 
-Aber wirklich EDA und Botschaft und peruanische Behörden, wollt ihr das wirklich, müssen wir wirklich selber auf die Strasse, um auf unsere Situation aufmerksam zu machen? Braucht ihr wirklich noch ein paar mehr Leute in euren beschissenen, stinkenden und überfüllten Gefängnissen? Wirklich?
+Aber wirklich peruanische Behörden, wollt ihr das wirklich, müssen wir wirklich selber auf die Strasse, um auf unsere Situation aufmerksam zu machen? Braucht ihr wirklich noch ein paar mehr Leute in euren beschissenen, stinkenden und überfüllten Gefängnissen? Wirklich?
 
 # Links/Quellen
 * [1] <https://www.blick.ch/news/schweiz/zuerich/schweizer-stecken-wegen-coronavirus-in-peru-fest-wir-werden-fuer-drei-monate-eingesperrt-id15816267.html>
-* [2] <https://www.blick.ch/news/schweiz/gestrandete-schweizer-in-peru-sind-verzweifelt-hoffentlich-fliegen-uns-die-deutschen-aus-id15803206.html>
+* [2] <https://www.srf.ch/news/international/gestrandete-schweizerinnen-wir-koennen-nicht-ausreisen>
 * [3] <https://www.tagesanzeiger.ch/ausland/amerika/schweizer-in-peru-in-hotels-eingesperrt/story/30021162>
 * [4] <https://www.luzernerzeitung.ch/schweiz/eingesperrt-in-peru-so-ergeht-es-schweizer-touristinnen-wegen-der-corona-krise-ld.1206556>
